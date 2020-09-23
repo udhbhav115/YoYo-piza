@@ -1,0 +1,72 @@
+categories:
+- conversations
+conversations:
+- - hai
+  - Hai there!
+- - hai
+  - How are you?
+- - hello
+  - How are you?
+- - iam fine
+  - Super thats awesome
+- - how are you
+  - Everything is running smoothingly how can i help you?
+- - what are you doing?
+  - Iam busy in solving your queries!
+- - good morning
+  - Good morning
+- - good afternoon
+  - Good Afternoon
+- - Good Evening
+  - Good Evening
+- - iam hungry
+  - Shall i show the Menu card?
+- - I would like to eat pizza?
+  - That's Great Shall i show the Menu card?
+- - I would like to eat?
+  - That's Great Shall i show the Menu card?
+- - I would like to eat show me the menu card?
+  - vegetarian or Non-vegetarian?
+- - menu please
+  - vegetarian or Non-vegetarian?
+- - menu card please
+  - vegetarian or Non-vegetarian?
+- - menu
+  - vegetarian or Non-vegetarian?
+- - "yes"
+  - vegetarian or Non-vegetarian?
+- - vegetarian
+  - Peppy Paneer,Margherita,Mexican Green Wave,VEGGIE PARADISE
+- - non-vegetarian
+  - CHICKEN SAUSAGE,Non Veg Supreme,CHICKEN FIESTA,Chicken Golden Delight
+- - "no"
+  - please order something and vegetarian or Non-vegetarian?
+- - Peppy Paneer
+  - please select the number of pieces from 1 to 3
+- - margherita
+  - please select the number of pieces from 1 to 3
+- - mexican green wave
+  - please select the number of pieces from 1 to 3
+- - veggie paradise
+  - please select the number of pieces from 1 to 3
+- - chicken sausage
+  - please select the number of pieces from 1 to 3
+- - non veg supreme
+  - please select the number of pieces from 1 to 3
+- - chicken fiesta
+  - please select the number of pieces from 1 to 3
+- - chicken golden delight
+  - please select the number of pieces from 1 to 3
+- - "1"
+  - Please enter your phone number and address and send "okay" as new message.
+- - "2"
+  - Please enter your phone number and address and send "okay" as new message.
+- - "3"
+  - Please enter your phone number and address and send "okay" as new message.
+- - okay
+  - Thank you! for odering we will deliver you shortly.
+
+
+
+
+
